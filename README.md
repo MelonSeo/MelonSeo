@@ -1,10 +1,13 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MelonSeo%20github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20githu[...]
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MelonSeo%20github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20github!&descAlignY=51&descAlign=62"/>
 </p>
-
+        
+---
 ## Hi there 👋
 
+
 ### 🚀 A Tenacious Backend Developer
+
 
 ### 🛠️ Tech Stack
 
