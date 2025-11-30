@@ -9,7 +9,7 @@
 ### 🛠️ Tech Stack
 
 **Backend**
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" height="28" style="vertical-align:middle;margin:2px"/>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" alt="Spring Boot" height="28" style="vertical-align:middle;margin:2px"/>
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Spring Data JPA" height="28" style="vertical-align:middle;margin:2px"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" height="28" style="vertical-align:middle;margin:2px"/>
